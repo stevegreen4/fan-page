@@ -1,0 +1,19 @@
+img {
+    width: 400px;
+}
+
+h1 {
+    text-align: center;
+}
+
+body{
+    background-color: pink;
+}
+
+blockquote {
+    font-style: italic;
+}
+
+h2 {
+    text-decoration: underline;
+}
